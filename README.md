@@ -85,8 +85,3 @@ src/
 - Allow export/import of data in formats like CSV or JSON.
 - Add advanced genealogical analysis tools (e.g., inbreeding calculations, family network analysis).
 
----
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
