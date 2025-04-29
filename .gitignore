@@ -57,9 +57,9 @@ bin/
 
 # --- Database ---
 # H2/local DB files
-*.db
-*.h2.db
-*.mv.db
+*.main.java.com.db
+*.h2.main.java.com.db
+*.mv.main.java.com.db
 
 # --- Environment ---
 # Configuration files with secrets
